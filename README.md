@@ -11,6 +11,10 @@ API 文件說明請求的 URL 端點 (訪問的目標)與放在 URL 或 GET 方�
 
       http://qspies.com/api-route?paramVal001=path-param
       
+改變參數，請求其他格式的回應
+
+      http://freegeoip.net/csv/50.78.253.58
+      
 回傳格式
 
 * JSON
