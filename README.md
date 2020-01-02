@@ -6,7 +6,9 @@ API 文件說明請求的 URL 端點 (訪問的目標)與放在 URL 或 GET 方�
 範例：
 
       http:qspie.com/api-route/path-param
-      
+ 
+傳遞變數資料方法
+
       http://qspies.com/api-route?paramVal001=path-param
       
       
