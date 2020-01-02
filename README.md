@@ -32,6 +32,10 @@ API 文件說明請求的 URL 端點 (訪問的目標)與放在 URL 或 GET 方�
              <name>queen</name>
              <city>TPE</city>
           </user>
+          
+* CSV
+
+* PDF
 
 # HTTP methods
 
