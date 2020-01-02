@@ -64,4 +64,14 @@ API 文件說明請求的 URL 端點 (訪問的目標)與放在 URL 或 GET 方�
   }
  }
  
+# API Doc
+
+發文成功囉！
+
+        {"success": true} # Bool
+
+好像發生了某錯誤喔～
+
+        {"error":{"msg": "you got an error in this phase."}}
+ 
 
