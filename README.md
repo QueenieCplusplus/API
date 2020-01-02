@@ -37,15 +37,15 @@ API 文件說明請求的 URL 端點 (訪問的目標)與放在 URL 或 GET 方�
 
 常見到 API 以 Get 方法向伺服器請求資料，透過 HTTP 向伺服器請求資訊的方法，如下主要四種方法：
 
-* GET, read only.
+* GET 唯讀, read only.
 
-* POST, write & login to store data in the DB of Server Side.
+* POST 建構新實體, write & login to store data in the DB of Server Side.
 
-* PUT, rewite data such as email addr.
+* PUT 更新已有實體, rewite data such as email addr.
 
        http://queenspie.com/comments?post=00015
 
-* DELETE, rarely used, only in delete the comment in Blog via 
+* DELETE 刪除已有實體根據id, rarely used, only in delete the comment in Blog via 
 
        https://fb.com/use/<userID>/comment/<commentID>
 
