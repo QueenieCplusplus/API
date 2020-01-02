@@ -43,7 +43,11 @@ API 文件說明請求的 URL 端點 (訪問的目標)與放在 URL 或 GET 方�
 
 * PUT, rewite data such as email addr.
 
-* DELETE, rarely used, only in delete the comment in Blog via https://fb.com/use/<userID>/comment/<commentID>
+       http://queenspie.com/comments?post=00015
+
+* DELETE, rarely used, only in delete the comment in Blog via 
+
+       https://fb.com/use/<userID>/comment/<commentID>
 
 
 
