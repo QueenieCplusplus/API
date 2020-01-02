@@ -41,9 +41,9 @@ API 文件說明請求的 URL 端點 (訪問的目標)與放在 URL 或 GET 方�
 
 * POST, write & login to store data in the DB of Server Side.
 
-* PUT
+* PUT, rewite data such as email addr.
 
-* DELETE
+* DELETE, rarely used, only in delete the comment in Blog via https://fb.com/use/<userID>/comment/<commentID>
 
 
 
