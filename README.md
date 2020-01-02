@@ -11,6 +11,18 @@ API 文件說明請求的 URL 端點 (訪問的目標)與放在 URL 或 GET 方�
 
       http://qspies.com/api-route?paramVal001=path-param
       
+回傳格式
+
+* JSON
+
+          {"user":{"id": 001, "name": "queen", "city": "TPE"}}
+
+* XML
       
+          <user>
+             <id>001</id>
+             <name>queen</name>
+             <city>TPE</city>
+          </user>
 
 
