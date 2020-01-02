@@ -17,6 +17,8 @@ API 文件說明請求的 URL 端點 (訪問的目標)與放在 URL 或 GET 方�
 
       http://freegeoip.net/csv/50.78.253.58
       
+# Format in Rerurn Result
+      
 回傳格式
 
 * JSON
