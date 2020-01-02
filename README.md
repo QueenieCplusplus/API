@@ -49,5 +49,15 @@ API 文件說明請求的 URL 端點 (訪問的目標)與放在 URL 或 GET 方�
 
        https://fb.com/use/<userID>/comment/<commentID>
 
+# Request Body
 
+{"title": "this is request from Queen", 
+ "body": "(obmit)",
+ "attach": {
+   "book": "Python Program",
+   "url": "https://QueensPy.com.tw",
+   "team": "Pattys-i-Chip"
+  }
+ }
+ 
 
