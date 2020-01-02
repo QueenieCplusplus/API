@@ -7,7 +7,7 @@ API 文件說明請求的 URL 端點 (訪問的目標)與放在 URL 或 GET 方�
 
       http:qspie.com/api-route/path-param
  
-傳遞變數資料方法
+傳遞變數資料方法，以路徑或參數來傳遞
 
       http://qspies.com/api-route?paramVal001=path-param
       
