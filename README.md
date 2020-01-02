@@ -33,4 +33,17 @@ API 文件說明請求的 URL 端點 (訪問的目標)與放在 URL 或 GET 方�
              <city>TPE</city>
           </user>
 
+# HTTP methods
+
+常見到 API 以 Get 方法向伺服器請求資料，透過 HTTP 向伺服器請求資訊的方法，如下主要四種方法：
+
+* GET, read only.
+
+* POST, write & login to store data in the DB of Server Side.
+
+* PUT
+
+* DELETE
+
+
 
